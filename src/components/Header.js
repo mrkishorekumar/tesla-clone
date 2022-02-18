@@ -83,10 +83,10 @@ const RightMenu = styled.div`
   display:flex;
   align-itmes: center;
   a {
-    font-weight: 600;
+    font-size: 6.2em;
+    font-weight: 500;
     text-transform:uppercase;
-    margin-right:10px
-
+    margin-right:10p
   }
 `
 
